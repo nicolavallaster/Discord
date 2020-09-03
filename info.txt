@@ -1,3 +1,0 @@
-This is the test branch.
-
-For testing new addons befor commit to deployment branch.
